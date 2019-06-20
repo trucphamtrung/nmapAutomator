@@ -1,3 +1,6 @@
+I came through this article and landed on this script. The script credit goes to 21y4d.
+https://forum.hackthebox.eu/discussion/1655/oscp-exam-review-2019-notes-gift-inside/p1
+
 # nmapAutomator
 A script that you can run in the background!
   
